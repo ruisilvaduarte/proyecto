@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="camaro.xsl"?>
+<camaro>
+
+<Camaro tipo="SS (1970)">
+  <imagen ruta="../coches/camaro-ss-70.jpg"/>
+  <motor>Motor: V8</motor>
+  <cilindrada>Cilindrada: 5733 cm3</cilindrada>
+  <potencia>Potencia: 225 CV a 4300 rpm</potencia>
+  <precio>Precio: 40 000 ¤</precio>
+</Camaro>
+
+<Camaro tipo="SS (2010)">
+  <imagen ruta="../coches/camaro-ss-2010.jpg"/>
+  <motor>Motor: V8</motor>
+  <cilindrada>Cilindrada: 6162 cm3</cilindrada>
+  <potencia>Potencia: 432 CV a 5900 rpm</potencia>
+  <precio>Precio: a partir de 39 000 ¤</precio>
+</Camaro>
+
+<Camaro tipo="ZL1 (2012)">
+  <imagen ruta="../coches/camaro-zl1-2012.jpg"/>
+  <motor>Motor: V8</motor>
+  <cilindrada>Cilindrada: 6162 cm3</cilindrada>
+  <potencia>Potencia: 588 CV a 6000 rpm</potencia>
+  <precio>Precio: a partir de 85 800 ¤</precio>
+</Camaro>
+
+<Camaro tipo="Z/28 (2015)">
+  <imagen ruta="../coches/camaro-z28-2015.jpg"/>
+  <motor>Motor: V8</motor>
+  <cilindrada>Cilindrada: 7011 cm3</cilindrada>
+  <potencia>Potencia: 512 CV a 6100 rpm</potencia>
+  <precio>Precio: a partir de 98 000 ¤</precio>
+</Camaro>
+
+</camaro>

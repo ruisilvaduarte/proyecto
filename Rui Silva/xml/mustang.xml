@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="mustang.xsl"?>
+<ford>
+
+<Ford tipo="Mustang GT">
+  <imagen ruta="../coches/mustang.jpg"/>
+  <motor>Motor: V8</motor>
+  <cilindrada>Cilindrada: 5038 cm3</cilindrada>
+  <potencia>Potencia: 450 CV a 7000 rpm</potencia>
+  <precio>Precio: a partir de 49 300 ¤</precio>
+</Ford>
+
+<Ford tipo="Mustang Shelby GT350">
+  <imagen ruta="../coches/shelby.jpg"/>
+  <motor>Motor: V8</motor>
+  <cilindrada>Cilindrada: 5163 cm3</cilindrada>
+  <potencia>Potencia: 533 CV a 7500 rpm</potencia>
+  <precio>Precio: a partir de 79 900 ¤</precio>
+</Ford>
+
+<Ford tipo="GT">
+  <imagen ruta="../coches/gt.jpg"/>
+  <motor>Motor: V6</motor>
+  <cilindrada>Cilindrada: 3497 cm3</cilindrada>
+  <potencia>Potencia: 647 CV a 6250 rpm</potencia>
+  <precio>Precio: a partir de 388 000 ¤</precio>
+</Ford>
+
+</ford>

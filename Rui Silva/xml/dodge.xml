@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="dodge.xsl"?>
+<dodge>
+
+<Dodge tipo="Charger SRT Hellcat 2016">
+  <imagen ruta="../coches/charger-srt.jpg"/>
+  <motor>Motor: V8</motor>
+  <cilindrada>Cilindrada: 6166 cm3</cilindrada>
+  <potencia>Potencia: 707 CV a 6000 rpm</potencia>
+  <precio>Precio: a partir de 56 370 €</precio>
+</Dodge>
+
+<Dodge tipo="Challenger SRT Hellcat 2014">
+  <imagen ruta="../coches/challenger-srt.jpg"/>
+  <motor>Motor: V8</motor>
+  <cilindrada>Cilindrada: 6166 cm3</cilindrada>
+  <potencia>Potencia: 717 CV a 6000 rpm</potencia>
+  <precio>Precio: a partir de 110 250 €</precio>
+</Dodge>
+
+<Dodge tipo="Viper SRT GTS 2014">
+  <imagen ruta="../coches/viper.jpg"/>
+  <motor>Motor: V10</motor>
+  <cilindrada>Cilindrada: 8382 cm3</cilindrada>
+  <potencia>Potencia: 649 CV a 6200 rpm</potencia>
+  <precio>Precio: a partir de 139 000 €</precio>
+</Dodge>
+
+</dodge>
